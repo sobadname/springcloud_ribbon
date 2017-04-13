@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka_ribbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: liaoyongjun
+Implementation-Vendor-Id: com.tykj.eureka
+Build-Jdk: 1.8.0_51
+Implementation-URL: http://projects.spring.io/spring-boot/ribbon/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
